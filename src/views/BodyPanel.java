@@ -26,5 +26,9 @@ public class BodyPanel extends JPanel {
         this.updateUI();
     }
 
+    public void updateProcess(){
+
+    }
+
 
 }

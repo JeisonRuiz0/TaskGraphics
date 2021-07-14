@@ -33,7 +33,4 @@ public class TaskReader {
         return nameTasks;
     }
 
-    public static void main(String[] args) {
-        new TaskReader();
-    }
 }
